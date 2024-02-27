@@ -1,0 +1,7 @@
+name = input('Enter Your Name: ')
+print('You Entered: ',name)
+age = input('Enter Your Age: ')
+print('You Entered: ',age)
+location = input('Enter Your Location: ')
+print('You Entered: ',location )
+print("Hello, {}! You are {} years old and you are located in {}.".format(name, age, location))
